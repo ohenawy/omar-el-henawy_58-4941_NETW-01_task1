@@ -1,0 +1,40 @@
+signup_id,student_id,full_name,email,faculty,city,club,signed_up_at,fee_paid
+S015,61-8942,Hana Zaki,hana.zaki@student.guc.edu.eg,Pharmacy,Giza,Soccer,2026-09-15 13:39,N
+S010,61-3846,AHMED ZAKI,ahmed.zaki@student.guc.edu.eg,Management,alexandria,Chess,15/09/2026 03:12,false
+S008,61-4844,  Mohamed  Adel ,mohamed.adel@student.guc.edu.eg,EMS,Cairo,Music,2026-09-14 23:32,Y
+S035,61-4844,MOHAMED ADEL,mohamed.adel@student.guc.edu.eg,Engineering and Materials Science,Cairo,Debating,2026-09-17 11:15,yes
+S004,61-7344,Laila Mostafa,laila.mostafa@student.guc.edu.eg,IET,Alexandria,Chess Club,2026-09-13 22:36,yes
+S012,55-9245,ALI IBRAHIM,ali.ibrahim@student.guc.edu.eg,MET,cairo,Robotics,15/09/2026 03:42,N
+S007,61-2495,ahmed adel,AHMED.ADEL@STUDENT.GUC.EDU.EG,Pharma,Alex,Robotics,2026-09-14 17:03,Y
+S005,61-4733,OMAR ADEL,omar.adel@student.guc.edu.eg,EMS,cairo,football,2026-09-13 23:52,1
+S020,55-9245,ali ibrahim,ali.ibrahim@student.guc.edu.eg,MET,CAIRO,Music,2026-09-15 23:07,false
+S033,55-9245,ali ibrahim,ali.ibrahim@student.guc.edu.eg,met,Cairo,music,2026-09-16 09:07,1
+S003,55-9245,Ali Ibrahim,ali.ibrahim@student.guc.edu.eg,Media Engineering and Technology,Cairo,Chess,2026-09-13 21:16,TRUE
+S006,61-2495,AHMED ADEL,ahmed.adel@student.guc.edu.eg,pharmacy,Alex,Football,14/09/2026 01:22,Yes
+S026,58-1125,Ziad Saleh,ziad.saleh@student.guc.edu.eg,IET,Cairo,Robotics,16/09/2026 23:55,1
+S025,61-4733,  Omar  Adel ,omar.adel@student.guc.edu.eg,EMS,Cairo,Chess Club,2026-09-16 20:31,1
+S002,55-2992,mohamed adel,mohamed.adel@student.guc.edu.eg,Information Engineering and Technology,Alexandria,Debating,13/09/2026 15:38,Yes
+S022,61-8224,Sara Zaki,sara.zaki@student.guc.edu.eg,EMS,giza,Music,2026-09-16 01:39,Y
+S027,58-8701,Farida Ibrahim,farida.ibrahim@student.guc.edu.eg,Pharmacy,Alexandria,Music,2026-09-17 00:41,Y
+S001,58-9118,Mariam Kamel,mariam.kamel@student.guc.edu.eg,IET,Giza,Robotics,2026-09-13 14:36,TRUE
+S024,55-2992,Mohamed Adel,mohamed.adel@student.guc.edu.eg,IET,Alexandria,Robotics,2026-09-16 16:16,Yes
+S030,55-2971,Salma Ibrahim,salma.ibrahim@student.guc.edu.eg,Management,Alexandria,chess,2026-09-17 17:14,0
+S023,58-1125,Ziad Saleh,ziad.saleh@student.guc.edu.eg,Information Engineering and Technology,Cairo,Chess,2026-09-16 09:29,false
+S032,61-7344,  Laila  Mostafa ,laila.mostafa@student.guc.edu.eg,Information Engineering and Technology,Alexandria,football,2026-09-17 23:36,false
+S021,61-4844,Mohamed Adel,MOHAMED.ADEL@STUDENT.GUC.EDU.EG,EMS,Cairo,Debating,16/09/2026 01:15,no
+S009,61-4844,Mohamed Adel, mohamed.adel@student.guc.edu.eg ,EMS,Cairo,Robotics,2026-09-15 01:05,yes
+S022,61-8224,Sara Zaki,sara.zaki@student.guc.edu.eg,EMS,giza,Music,2026-09-16 01:39,Y
+S034,61-7344,Laila Mostafa,LAILA.MOSTAFA@STUDENT.GUC.EDU.EG,IET,Alex,debate club,16/09/2026 02:01,TRUE
+S029,58-1089,Karim Kamel,karim.kamel@student.guc.edu.eg,Pharmacy,Alexandria,Music ,17/09/2026 12:27,Yes
+S016,55-2639,Youssef Fathy,youssef.fathy@student.guc.edu.eg,Management,Cairo,Robotics,15/09/2026 17:20,yes
+S019,58-8701,  Farida  Ibrahim ,farida.ibrahim@student.guc.edu.eg,Pharmacy,Alexandria,chess,15/09/2026 20:20,yes
+S018,61-7344,laila mostafa,LAILA.MOSTAFA@STUDENT.GUC.EDU.EG,iet,Alexandria,music,15/09/2026 18:40,N
+S011,61-8942,Hana Zaki,hana.zaki@student.guc.edu.eg,Pharmacy,Giza,Robotics,15/09/2026 03:28,1
+S014,55-2639,Youssef Fathy,youssef.fathy@student.guc.edu.eg,Management,Cairo,Chess Club,2026-09-15 11:36,yes
+S031,61-8224,Sara Zaki,sara.zaki@student.guc.edu.eg,ems,El Giza,Football,2026-09-17 23:29,1
+S023,58-1125,Ziad Saleh,ziad.saleh@student.guc.edu.eg,Information Engineering and Technology,Cairo,Chess,2026-09-16 09:29,false
+S015,61-8942,Hana Zaki,hana.zaki@student.guc.edu.eg,Pharmacy,Giza,Soccer,2026-09-15 13:39,N
+S017,61-7344,Laila Mostafa,laila.mostafa@student.guc.edu.eg,iet,Alexandria,Debate,15/09/2026 18:01,false
+S028,58-1089,Karim Kamel,karim.kamel@student.guc.edu.eg,Pharmacy,Alex,Football,2026-09-17 06:54,yes
+S013,55-9245,Ali Ibrahim,ali.ibrahim@student.guc.edu.eg,MET,Cairo,football,2026-09-15 05:43,TRUE
+S036,61-7344,Laila Mostafa,laila.mostafa@student.guc.edu.eg,iet,Alexandria,football,18/09/2026 23:36,1

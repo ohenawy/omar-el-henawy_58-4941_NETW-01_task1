@@ -1,0 +1,8 @@
+# NETW908 Assignment – Task 1
+
+**Name:** Omar El Henawy  
+**Student ID:** 58-4941
+
+## Data Cleaning
+
+The original dataset contained 39 rows with inconsistent text formatting, different spellings and capitalization of club names, and duplicate registrations. I first inspected the data and removed 3 exact duplicate rows, leaving 36 rows. Next, I cleaned whitespace and standardized categorical values, including club names, so different representations of the same club were treated consistently. I converted `fee_paid` to Boolean and `signed_up_at` to datetime to ensure the columns had appropriate data types. After normalizing the club names, I sorted the records by `student_id`, `club`, and `signed_up_at` in descending timestamp order, then removed duplicate student-club combinations, keeping the latest submission. This step removed 4 additional rows, leaving 32 rows. Keeping the latest submission preserves the student's most recent registration information rather than potentially outdated information from an earlier submission. The order of operations matters: if I had removed student-club duplicates before standardizing club spellings, only 2 duplicates would have been detected at that stage, instead of 4. Consequently, additional duplicate registrations would have remained because differently spelled versions of the same club would be treated as different clubs. Finally, I used `student_id` rather than student names to identify students. Since two different students can share the same name, using their unique IDs prevents their registrations from being incorrectly merged. I validated the final dataset to ensure that no exact duplicates or repeated student-club combinations remained, then exported it as `club_signups_clean.csv`.
